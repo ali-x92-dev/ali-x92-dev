@@ -1,4 +1,4 @@
-<p align="center"> <img src="banner.png" width="100%"
+<p align="center"> <img src="banner.png" width="100%">
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Ali Siddiqui</h1>
 <h3 align="center">Developer | SaaS Builder | Entrepreneur 🚀</h3>
                      
