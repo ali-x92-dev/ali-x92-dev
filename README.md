@@ -8,7 +8,7 @@
 
 ## 💻 What I'm Working On
 
-<table align="center"> <tr> <td align="center" width="33%"><h3>🎬 Caption Studio</h3>Building caption creation tools.</td> <td align="center" width="33%"><h3>⚡ PeakCut</h3>Exploring automated video clipping workflows.</td> <td align="center" width="33%"><h3>🚀 SaaS</h3>Learning, building, and experimenting with SaaS products.</td> </tr> </table>
+<table align="center"> <tr> <td align="center" width="33%"><h3>🎬 Caption Studio</h3>Building caption creation tools.</td> <a href="#">Explore Project →</a> <td align="center" width="33%"><h3>⚡ PeakCut</h3>Exploring automated video clipping workflows.</td> <td align="center" width="33%"><h3>🚀 SaaS</h3>Learning, building, and experimenting with SaaS products.</td> </tr> </table>
 
 ## 🛠️ Interests
 
@@ -18,7 +18,6 @@
 
 - Build products that solve real problems and create meaningful impact.
 
-  🚀 What I'm Building
 
 <table>
 <tr>
@@ -43,41 +42,34 @@
 </tr>
 </table>
 
-⭐ Featured Projects
+## ⭐ Featured Projects
 
 A collection of things I've built and experimented with.
 
 <!-- Add your completed projects here -->
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-Technologies and tools I work with.
+- Technologies and tools I work with.
 
 <!-- Add your actual technologies here -->
 
-🧠 Currently Learning
+## 🧠 Currently Learning
 
-Building scalable SaaS products
+- Building scalable SaaS products
 
-AI-powered applications
+- AI-powered applications
 
-Product development and automation
+- Product development and automation
 
-Improving software engineering skills
+- Improving software engineering skills
 
-📊 GitHub Statistics
+## 🎯 My Vision
 
-<!-- Add GitHub statistics cards here -->
+- Build useful products, solve real-world problems, and turn ambitious ideas into reality.
 
-🎯 My Vision
+## 🤝 Let's Connect
 
-Build useful products, solve real-world problems, and turn ambitious ideas into reality.
-
-🤝 Let's Connect
-
-📸 Instagram: @ali._x92
-
-💻 GitHub: @ali-x92-dev
 
 <p align="center">
   <b>BUILD. CREATE. SHIP. REPEAT. 🚀</b>
