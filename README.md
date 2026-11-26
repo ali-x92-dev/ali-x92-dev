@@ -1,5 +1,4 @@
-<p align="center"> <img src="banner.png" width="100%" <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Ali Siddiqui</h1>
-<h3 align="center">Developer | SaaS Builder | Entrepreneur 🚀</h3>font=Fira+Code&size=20&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Building+useful+digital+products;Exploring+technology+and+automation;Turning+ideas+into+reality" alt="Building useful digital products, exploring technology and automation, turning ideas into reality" /> </p> <p align="center"> <a href="https://instagram.com/ali._x92"><img src="https://img.shields.io/badge/Instagram-@ali.__x92-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> <a href="https://github.com/ali-x92-dev"><img src="https://img.shields.io/badge/GitHub-@ali--x92--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <img src="https://komarev.com/ghpvc/?username=ali-x92-dev&style=for-the-badge&color=39D353&label=PROFILE+VIEWS" alt="Profile views" /> </p>
+<p align="center"> <img src="banner.png" width="100%" 
 👨‍💻 About Me
 
 I'm passionate about building useful digital products, exploring technology, and turning ideas into reality.
