@@ -2,9 +2,9 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Ali Siddiqui</h1>
 <h3 align="center">Developer | SaaS Builder | Entrepreneur 🚀</h3>
                      
-👨‍💻 About Me
+## 📌 About Me
 
-I'm passionate about building useful digital products, exploring technology, and turning ideas into reality.
+- I'm passionate about building useful digital products, exploring technology, and turning ideas into reality.
 
 💻 What I'm Working On
 <table align="center"> <tr> <td align="center" width="33%"><h3>🎬 Caption Studio</h3>Building caption creation tools.</td> <td align="center" width="33%"><h3>⚡ PeakCut</h3>Exploring automated video clipping workflows.</td> <td align="center" width="33%"><h3>🚀 SaaS</h3>Learning, building, and experimenting with SaaS products.</td> </tr> </table>
