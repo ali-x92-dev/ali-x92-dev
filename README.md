@@ -8,7 +8,28 @@
 
 ## 💻 What I'm Working On
 
-<table align="center"> <tr> <td align="center" width="33%"><h3>🎬 Caption Studio</h3>Building caption creation tools.</td> <a href="#">Explore Project →</a> <td align="center" width="33%"><h3>⚡ PeakCut</h3>Exploring automated video clipping workflows.</td> <td align="center" width="33%"><h3>🚀 SaaS</h3>Learning, building, and experimenting with SaaS products.</td> </tr> </table>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>🎬 Caption Studio</h3>
+      Building caption creation tools.
+      <br/><br/>
+      <a href="#" style="color: white;">Explore Project →</a>
+    </td>
+    <td align="center" width="33%">
+      <h3>⚡ PeakCut</h3>
+      Exploring automated video clipping workflows.
+      <br/><br/>
+      <a href="#" style="color: white;">Explore Project →</a>
+    </td>
+    <td align="center" width="33%">
+      <h3>🚀 SaaS</h3>
+      Learning, building, and experimenting with SaaS products.
+      <br/><br/>
+      <a href="#" style="color: white;">Explore Project →</a>
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Interests
 
@@ -17,7 +38,6 @@
 ## 🎯 My Goal
 
 - Build products that solve real problems and create meaningful impact.
-
 
 <table>
 <tr>
