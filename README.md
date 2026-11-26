@@ -42,12 +42,6 @@
 
 - Build products that solve real problems and create meaningful impact.
 
-## ⭐ Featured Projects
-
-A collection of things I've built and experimented with.
-
-<!-- Add your completed projects here -->
-
 ## 🛠️ Tech Stack
 
 - Technologies and tools I work with.
@@ -88,9 +82,14 @@ A collection of things I've built and experimented with.
   <a href="https://github.com/ali-x92-dev" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" height="40" alt="GitHub"/>
   </a>
-  <a href="YOUR_LINKEDIN_URL" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" alt="LinkedIn"/>
-  </a>
+  
+<a href="YOUR_LINKEDIN_URL" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+       width="40"
+       height="40"
+       alt="LinkedIn"/>
+</a>
+
   <a href="YOUR_YOUTUBE_URL" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.simpleicons.org/youtube/FF0000" width="40" height="40" alt="YouTube"/>
   </a>
