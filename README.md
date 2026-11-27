@@ -24,9 +24,9 @@
       <br/><br/>
     </td>
     <td align="center" width="33%">
-      <img src="images.png" width="65" alt="SaaS"/>
-      <h3>🚀 SaaS</h3>
-      Learning, building, and experimenting with SaaS products.
+      <img src="saas.png" width="65" alt="SaaS"/>
+      <h3>SaaS</h3>
+      Learning, building, and experimenting with SaaS ideas.
       <br/><br/>
     </td>
   </tr>
