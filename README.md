@@ -18,7 +18,7 @@
       <a href="#" style="color: white;">Explore Project →</a>
     </td>
     <td align="center" width="33%">
-      <img src="YOUR_PEAKCUT_ICON_URL" width="65" alt="PeakCut"/>
+      <img src="peakcut.svg" width="65" alt="PeakCut"/>
       <h3>⚡ PeakCut</h3>
       Exploring automated video clipping workflows.
       <br/><br/>
