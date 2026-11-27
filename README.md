@@ -19,7 +19,7 @@
     <td align="center" width="33%">
       <br/><br/>
       <img src="peakcut.svg" width="65" alt="PeakCut"/>
-      <h3>⚡ PeakCut</h3>
+      <h3>PeakCut</h3>
       Exploring automated video clipping workflows.
       <br/><br/>
     </td>
