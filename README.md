@@ -15,21 +15,19 @@
       <h3>🎬 Caption Studio</h3>
       Building caption creation tools.
       <br/><br/>
-      <a href="#" style="color: white;">Explore Project →</a>
     </td>
     <td align="center" width="33%">
+      <br/><br/>
       <img src="peakcut.svg" width="65" alt="PeakCut"/>
       <h3>⚡ PeakCut</h3>
       Exploring automated video clipping workflows.
       <br/><br/>
-      <a href="#" style="color: white;">Explore Project →</a>
     </td>
     <td align="center" width="33%">
       <img src="YOUR_SAAS_ICON_URL" width="65" alt="SaaS"/>
       <h3>🚀 SaaS</h3>
       Learning, building, and experimenting with SaaS products.
       <br/><br/>
-      <a href="#" style="color: white;">Explore Project →</a>
     </td>
   </tr>
 </table>
