@@ -11,7 +11,7 @@
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <img src="YOUR_CAPTION_STUDIO_ICON_URL" width="65" alt="Caption Studio"/>
+      <img src="Caption-Studio.png" width="65" alt="Caption Studio"/>
       <h3>🎬 Caption Studio</h3>
       Building caption creation tools.
       <br/><br/>
